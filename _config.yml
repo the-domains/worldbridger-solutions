@@ -1,0 +1,28 @@
+name: Worldbridger Solutions
+favicon: null
+layout_spectrum: 0.7080906454939395
+typography_spectrum: 0.04120289837010205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.02183890901505947
+  lightness: 0.008427458349615335
+  saturation: 0.9168618470430374
+  rhythmicContrast: 0.6911660938058048
+purpose: []
